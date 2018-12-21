@@ -1,0 +1,87 @@
+#!/usr/bin/env python3
+
+import RPi.GPIO as GPIO
+
+import time
+ON = GPIO.LOW
+OFF = GPIO.HIGH
+
+STAR = 18
+BACK_DOOR = 23
+FRONT_DOOR = 24
+PROMETHEAN = 25
+SNOWFLAKES = 4
+BOARD = 17
+CEILING_LEFT = 27
+CEILING_RIGHT = 22
+
+pins = [STAR, BACK_DOOR, FRONT_DOOR, PROMETHEAN,
+              SNOWFLAKES, BOARD, CEILING_LEFT, CEILING_RIGHT]
+
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+
+for p in pins:
+    GPIO.setup(p, GPIO.OUT)
+
+def menu():
+    print("0) All off")
+    print("1) Star")
+    print("2) Ceiling")
+    print("3) Television")
+    print("4) Bookshelves")
+    print("5) Hallway door")
+    print("6) Window")
+    print("7) Fireplace")
+    print("8) Tree")
+    print("9) All on")
+    print("q) Quit")
+
+    return input(">> ")
+
+def all_on():
+    for p in pins:
+        print(p)
+        GPIO.output(p, ON)
+
+def all_off():
+    for p in pins:
+        print(p)
+        GPIO.output(p, OFF)
+        
+def toggle(pin):
+    state = GPIO.input(pin)
+    GPIO.output(pin, not state)
+    
+running = True
+mode = ON
+
+while running:
+    choice = menu()
+    
+    if choice == '0':
+        all_off()
+    elif choice == '1':
+        toggle(BOARD)
+    elif choice == '2':
+        toggle(STAR)
+    elif choice == '3':
+        toggle(CEILING_LEFT)
+    elif choice == '4':
+        toggle(CEILING_RIGHT)
+    elif choice == '5':
+        toggle(BACK_DOOR)
+    elif choice == '6':
+        toggle(FRONT_DOOR)
+    elif choice == '7':
+        toggle(PROMETHEAN)
+    elif choice == '8':
+        toggle(SNOWFLAKES)
+    elif choice == '9':
+        all_on()
+    elif choice == 'q':
+        running = False
+
+    print()
+
+GPIO.cleanup()

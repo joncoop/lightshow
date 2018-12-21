@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=lxterminal -e "sudo /home/pi/Desktop/menu-v4.py"
+Name=Lights
+Icon=/home/pi/Pictures/lightshowpi-icon.png
+Type=Application
+Name[en_US]=Lightshow
