@@ -1,0 +1,296 @@
+[Mon Dec 11 18:17:32 EST 2017] Configuring installation for detected distro='raspbian'
+Installing ffmpeg...
+Installation failed, trying libav-tools...
+Reading changelogs... 100%                          Reading changelogs... Done
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128925 files and directories currently installed.)
+Preparing to unpack .../libav-tools_6%3a11.11-1~deb8u1+rpi1_armhf.deb ...
+Unpacking libav-tools (6:11.11-1~deb8u1+rpi1) over (6:11.9-1~deb8u1+rpi1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up libav-tools (6:11.11-1~deb8u1+rpi1) ...
+[Mon Dec 11 18:17:45 EST 2017] Preparing to install 20 packages on your system...
+[Mon Dec 11 18:17:45 EST 2017] Installing curl...
+Reading changelogs... 50%Reading changelogs... 100%                          Reading changelogs... Done
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128925 files and directories currently installed.)
+Preparing to unpack .../curl_7.38.0-4+deb8u8_armhf.deb ...
+Unpacking curl (7.38.0-4+deb8u8) over (7.38.0-4+deb8u5) ...
+Preparing to unpack .../libcurl3_7.38.0-4+deb8u8_armhf.deb ...
+Unpacking libcurl3:armhf (7.38.0-4+deb8u8) over (7.38.0-4+deb8u5) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up libcurl3:armhf (7.38.0-4+deb8u8) ...
+Setting up curl (7.38.0-4+deb8u8) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+[Mon Dec 11 18:17:57 EST 2017] Installing faad...
+[Mon Dec 11 18:17:58 EST 2017] Installing flac...
+[Mon Dec 11 18:18:00 EST 2017] Installing gcc...
+[Mon Dec 11 18:18:02 EST 2017] Installing git...
+Reading changelogs... 100%                          Reading changelogs... Done
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128925 files and directories currently installed.)
+Preparing to unpack .../git_1%3a2.1.4-2.1+deb8u5_armhf.deb ...
+Unpacking git (1:2.1.4-2.1+deb8u5) over (1:2.1.4-2.1+deb8u2) ...
+Setting up git (1:2.1.4-2.1+deb8u5) ...
+[Mon Dec 11 18:18:16 EST 2017] Installing lame...
+Selecting previously unselected package lame.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128925 files and directories currently installed.)
+Preparing to unpack .../lame_3.99.5+repack1-7+deb8u1_armhf.deb ...
+Unpacking lame (3.99.5+repack1-7+deb8u1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up lame (3.99.5+repack1-7+deb8u1) ...
+[Mon Dec 11 18:18:25 EST 2017] Installing mpg123...
+Selecting previously unselected package mpg123.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128931 files and directories currently installed.)
+Preparing to unpack .../mpg123_1.20.1-2+deb8u1_armhf.deb ...
+Unpacking mpg123 (1.20.1-2+deb8u1) ...
+Processing triggers for mime-support (3.58) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up mpg123 (1.20.1-2+deb8u1) ...
+update-alternatives: using /usr/bin/mpg123.bin to provide /usr/bin/mpg123 (mpg123) in auto mode
+update-alternatives: using /usr/bin/mpg123.bin to provide /usr/bin/mp3-decoder (mp3-decoder) in auto mode
+[Mon Dec 11 18:18:35 EST 2017] Installing make...
+[Mon Dec 11 18:18:37 EST 2017] Installing python-alsaaudio...
+Selecting previously unselected package python-alsaaudio.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128970 files and directories currently installed.)
+Preparing to unpack .../python-alsaaudio_0.7-1_armhf.deb ...
+Unpacking python-alsaaudio (0.7-1) ...
+Setting up python-alsaaudio (0.7-1) ...
+[Mon Dec 11 18:18:45 EST 2017] Installing python-dev...
+[Mon Dec 11 18:18:47 EST 2017] Installing python-numpy...
+[Mon Dec 11 18:18:49 EST 2017] Installing python-pip...
+[Mon Dec 11 18:18:51 EST 2017] Installing python-setuptools...
+[Mon Dec 11 18:18:53 EST 2017] Installing unzip...
+Reading changelogs... 100%                          Reading changelogs... Done
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129006 files and directories currently installed.)
+Preparing to unpack .../unzip_6.0-16+deb8u3_armhf.deb ...
+Unpacking unzip (6.0-16+deb8u3) over (6.0-16+deb8u2) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Processing triggers for mime-support (3.58) ...
+Setting up unzip (6.0-16+deb8u3) ...
+[Mon Dec 11 18:19:03 EST 2017] Installing vorbis-tools...
+Selecting previously unselected package vorbis-tools.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129006 files and directories currently installed.)
+Preparing to unpack .../vorbis-tools_1.4.0-6+deb8u1_armhf.deb ...
+Unpacking vorbis-tools (1.4.0-6+deb8u1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Processing triggers for mime-support (3.58) ...
+Setting up vorbis-tools (1.4.0-6+deb8u1) ...
+[Mon Dec 11 18:19:12 EST 2017] Installing wiringpi...
+Reading changelogs... 100%                          Reading changelogs... Done
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129046 files and directories currently installed.)
+Preparing to unpack .../wiringpi_2.44_armhf.deb ...
+Unpacking wiringpi (2.44) over (2.32) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+Setting up wiringpi (2.44) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+[Mon Dec 11 18:19:20 EST 2017] Installing cython...
+Selecting previously unselected package cython.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129059 files and directories currently installed.)
+Preparing to unpack .../cython_0.21.1-1_armhf.deb ...
+Unpacking cython (0.21.1-1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up cython (0.21.1-1) ...
+[Mon Dec 11 18:19:37 EST 2017] Installing pianobar...
+Selecting previously unselected package libpiano0:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129363 files and directories currently installed.)
+Preparing to unpack .../libpiano0_2014.06.08-1+b1_armhf.deb ...
+Unpacking libpiano0:armhf (2014.06.08-1+b1) ...
+Selecting previously unselected package pianobar.
+Preparing to unpack .../pianobar_2014.06.08-1+b1_armhf.deb ...
+Unpacking pianobar (2014.06.08-1+b1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up libpiano0:armhf (2014.06.08-1+b1) ...
+Setting up pianobar (2014.06.08-1+b1) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+[Mon Dec 11 18:19:46 EST 2017] Installing swig2.0...
+Selecting previously unselected package swig2.0.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129390 files and directories currently installed.)
+Preparing to unpack .../swig2.0_2.0.12-1_armhf.deb ...
+Unpacking swig2.0 (2.0.12-1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up swig2.0 (2.0.12-1) ...
+[Mon Dec 11 18:20:10 EST 2017] Installing libjpeg-dev...
+Selecting previously unselected package libjpeg62-turbo-dev:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 130013 files and directories currently installed.)
+Preparing to unpack .../libjpeg62-turbo-dev_1%3a1.3.1-12_armhf.deb ...
+Unpacking libjpeg62-turbo-dev:armhf (1:1.3.1-12) ...
+Selecting previously unselected package libjpeg-dev.
+Preparing to unpack .../libjpeg-dev_1%3a1.3.1-12_all.deb ...
+Unpacking libjpeg-dev (1:1.3.1-12) ...
+Setting up libjpeg62-turbo-dev:armhf (1:1.3.1-12) ...
+Setting up libjpeg-dev (1:1.3.1-12) ...
+Searching for pip
+Reading https://pypi.python.org/simple/pip/
+Best match: pip 9.0.1
+Downloading https://pypi.python.org/packages/11/b6/abcb525026a4be042b486df43905d6893fb04f05aac21c32c638e939e447/pip-9.0.1.tar.gz#md5=35f01da33009719497f01a4ba69d63c9
+Processing pip-9.0.1.tar.gz
+Writing /tmp/easy_install-7HWqbf/pip-9.0.1/setup.cfg
+Running pip-9.0.1/setup.py -q bdist_egg --dist-dir /tmp/easy_install-7HWqbf/pip-9.0.1/egg-dist-tmp-96dbu4
+Adding pip 9.0.1 to easy-install.pth file
+Installing pip script to /usr/local/bin
+Installing pip2.7 script to /usr/local/bin
+Installing pip2 script to /usr/local/bin
+
+Installed /usr/local/lib/python2.7/dist-packages/pip-9.0.1-py2.7.egg
+Processing dependencies for pip
+Finished processing dependencies for pip
+[Mon Dec 11 18:20:31 EST 2017] Installing decoder...
+Collecting git+https://tom_slick@bitbucket.org/tom_slick/decoder.py.git
+  Cloning https://tom_slick@bitbucket.org/tom_slick/decoder.py.git to /tmp/pip-ZTuwDa-build
+Collecting mutagen (from decoder.py===1.58XB)
+  Downloading mutagen-1.39.tar.gz (916kB)
+Building wheels for collected packages: mutagen
+  Running setup.py bdist_wheel for mutagen: started
+  Running setup.py bdist_wheel for mutagen: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/35/cc/99/9c9289eb69331daa2daf2a4821d34ac39fffa19c8fa2b65599
+Successfully built mutagen
+Installing collected packages: mutagen, decoder.py
+  Running setup.py install for decoder.py: started
+    Running setup.py install for decoder.py: finished with status 'done'
+Successfully installed decoder.py-1.58XB mutagen-1.39
+[Mon Dec 11 18:20:43 EST 2017] Preparing to install 7 python packages on your system...
+[Mon Dec 11 18:20:43 EST 2017] Installing Beautifulsoup via pip...
+Collecting Beautifulsoup
+  Downloading BeautifulSoup-3.2.1.tar.gz
+Building wheels for collected packages: Beautifulsoup
+  Running setup.py bdist_wheel for Beautifulsoup: started
+  Running setup.py bdist_wheel for Beautifulsoup: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/5e/be/6d/ed01d5d434a821557b674c9da976f60b1b93d9009447eb9d16
+Successfully built Beautifulsoup
+Installing collected packages: Beautifulsoup
+Successfully installed Beautifulsoup-3.2.1
+[Mon Dec 11 18:20:48 EST 2017] Installing mutagen via pip...
+Requirement already up-to-date: mutagen in /usr/local/lib/python2.7/dist-packages
+[Mon Dec 11 18:20:51 EST 2017] Installing simplejson via pip...
+Collecting simplejson
+  Downloading simplejson-3.13.2.tar.gz (79kB)
+Building wheels for collected packages: simplejson
+  Running setup.py bdist_wheel for simplejson: started
+  Running setup.py bdist_wheel for simplejson: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/c2/d0/42/5d1d1290c19d999277582c585f80426c61987aff01eb104ed6
+Successfully built simplejson
+Installing collected packages: simplejson
+  Found existing installation: simplejson 3.6.5
+    Uninstalling simplejson-3.6.5:
+      Successfully uninstalled simplejson-3.6.5
+Successfully installed simplejson-3.13.2
+[Mon Dec 11 18:21:03 EST 2017] Installing twython via pip...
+Collecting twython
+  Downloading twython-3.6.0.tar.gz
+Collecting requests>=2.1.0 (from twython)
+  Downloading requests-2.18.4-py2.py3-none-any.whl (88kB)
+Collecting requests_oauthlib>=0.4.0 (from twython)
+  Downloading requests_oauthlib-0.8.0-py2.py3-none-any.whl
+Collecting certifi>=2017.4.17 (from requests>=2.1.0->twython)
+  Downloading certifi-2017.11.5-py2.py3-none-any.whl (330kB)
+Collecting chardet<3.1.0,>=3.0.2 (from requests>=2.1.0->twython)
+  Downloading chardet-3.0.4-py2.py3-none-any.whl (133kB)
+Collecting idna<2.7,>=2.5 (from requests>=2.1.0->twython)
+  Downloading idna-2.6-py2.py3-none-any.whl (56kB)
+Collecting urllib3<1.23,>=1.21.1 (from requests>=2.1.0->twython)
+  Downloading urllib3-1.22-py2.py3-none-any.whl (132kB)
+Collecting oauthlib>=0.6.2 (from requests_oauthlib>=0.4.0->twython)
+  Downloading oauthlib-2.0.6.tar.gz (127kB)
+Building wheels for collected packages: twython, oauthlib
+  Running setup.py bdist_wheel for twython: started
+  Running setup.py bdist_wheel for twython: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/54/0d/1d/17ead038ae99fc95a15469cab79fef102df2afc447405d0bf7
+  Running setup.py bdist_wheel for oauthlib: started
+  Running setup.py bdist_wheel for oauthlib: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/e5/46/f7/bb2fde81726295a13a71e3c6396d362ab408921c6562d6efc0
+Successfully built twython oauthlib
+Installing collected packages: certifi, chardet, idna, urllib3, requests, oauthlib, requests-oauthlib, twython
+  Found existing installation: chardet 2.3.0
+    Uninstalling chardet-2.3.0:
+      Successfully uninstalled chardet-2.3.0
+  Found existing installation: urllib3 1.9.1
+    Uninstalling urllib3-1.9.1:
+      Successfully uninstalled urllib3-1.9.1
+  Found existing installation: requests 2.4.3
+    Uninstalling requests-2.4.3:
+      Successfully uninstalled requests-2.4.3
+  Found existing installation: twython 3.1.2
+    Uninstalling twython-3.1.2:
+      Successfully uninstalled twython-3.1.2
+Successfully installed certifi-2017.11.5 chardet-3.0.4 idna-2.6 oauthlib-2.0.6 requests-2.18.4 requests-oauthlib-0.8.0 twython-3.6.0 urllib3-1.22
+[Mon Dec 11 18:21:16 EST 2017] Installing emoji via pip...
+Collecting emoji
+  Downloading emoji-0.4.5-py2-none-any.whl
+Installing collected packages: emoji
+Successfully installed emoji-0.4.5
+[Mon Dec 11 18:21:19 EST 2017] Installing spidev via pip...
+Collecting spidev
+  Downloading spidev-3.2.tar.gz
+Building wheels for collected packages: spidev
+  Running setup.py bdist_wheel for spidev: started
+  Running setup.py bdist_wheel for spidev: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/e4/9b/5f/cf0ec030fc958b72315a15412130e4e1dc6040cdb490aa21fb
+Successfully built spidev
+Installing collected packages: spidev
+  Found existing installation: spidev 3.0
+    Uninstalling spidev-3.0:
+      Successfully uninstalled spidev-3.0
+Successfully installed spidev-3.2
+[Mon Dec 11 18:21:25 EST 2017] Installing BiblioPixel<3.0 via pip...
+Collecting BiblioPixel<3.0
+  Downloading BiblioPixel-2.1.3.tar.gz (40kB)
+Building wheels for collected packages: BiblioPixel
+  Running setup.py bdist_wheel for BiblioPixel: started
+  Running setup.py bdist_wheel for BiblioPixel: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/38/de/0a/af266e3b9badc7e2c1658247641a82a0e5a49722df1856091d
+Successfully built BiblioPixel
+Installing collected packages: BiblioPixel
+Successfully installed BiblioPixel-2.1.3
+[Mon Dec 11 18:21:30 EST 2017] Installing pillow via pip...
+Collecting pillow
+  Downloading Pillow-4.3.0.tar.gz (13.9MB)
+Collecting olefile (from pillow)
+  Downloading olefile-0.44.zip (74kB)
+Building wheels for collected packages: pillow, olefile
+  Running setup.py bdist_wheel for pillow: started
+  Running setup.py bdist_wheel for pillow: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/49/97/22/638a2ad41d85bc151da7c987ae644da429a23e95733fabfd76
+  Running setup.py bdist_wheel for olefile: started
+  Running setup.py bdist_wheel for olefile: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/20/58/49/cc7bd00345397059149a10b0259ef38b867935ea2ecff99a9b
+Successfully built pillow olefile
+Installing collected packages: olefile, pillow
+  Found existing installation: Pillow 2.6.1
+    Uninstalling Pillow-2.6.1:
+      Successfully uninstalled Pillow-2.6.1
+Successfully installed olefile-0.44 pillow-4.3.0
+[Mon Dec 11 18:22:28 EST 2017] Installing pyserial via pip...
+Collecting pyserial
+  Downloading pyserial-3.4-py2.py3-none-any.whl (193kB)
+Installing collected packages: pyserial
+  Found existing installation: pyserial 2.6
+    Uninstalling pyserial-2.6:
+      Successfully uninstalled pyserial-2.6
+Successfully installed pyserial-3.4
+[Mon Dec 11 18:22:31 EST 2017] Installing rpi-audio-levels...
+Collecting git+https://tom_slick@bitbucket.org/tom_slick/rpi-audio-levels.git
+  Cloning https://tom_slick@bitbucket.org/tom_slick/rpi-audio-levels.git to /tmp/pip-X4oAse-build
+Requirement already satisfied: cython>=0.19.1 in /usr/lib/python2.7/dist-packages (from rpi-audio-levels==0.1.1)
+Requirement already satisfied: numpy in /usr/lib/python2.7/dist-packages (from rpi-audio-levels==0.1.1)
+Installing collected packages: rpi-audio-levels
+  Running setup.py install for rpi-audio-levels: started
+    Running setup.py install for rpi-audio-levels: finished with status 'done'
+Successfully installed rpi-audio-levels-0.1.1
+[Mon Dec 11 18:23:05 EST 2017] Installing wiringpi...
+Collecting git+https://broken2048@bitbucket.org/broken2048/wiringpi-python.git
+  Cloning https://broken2048@bitbucket.org/broken2048/wiringpi-python.git to /tmp/pip-MMNeJ_-build
+Installing collected packages: wiringpi
+  Running setup.py install for wiringpi: started
+    Running setup.py install for wiringpi: finished with status 'done'
+Successfully installed wiringpi-2.44
+[Mon Dec 11 18:23:38 EST 2017] Installing pygooglevoice...
+Collecting git+https://github.com/pettazz/pygooglevoice.git
+  Cloning https://github.com/pettazz/pygooglevoice.git to /tmp/pip-B_yaHX-build
+Installing collected packages: pygooglevoice
+  Running setup.py install for pygooglevoice: started
+    Running setup.py install for pygooglevoice: finished with status 'done'
+Successfully installed pygooglevoice-0.5
+
+
+All done! Reboot your Raspberry Pi before running lightshowPi.
+Run the following command to test your installation and hardware setup:
+
+    sudo python /home/pi/lightshowpi/py/hardware_controller.py --state=flash
+
