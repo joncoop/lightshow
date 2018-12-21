@@ -1,0 +1,1020 @@
+[2017-12-11 18:59:52,276] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/sample/ovenrake_deck-the-halls.mp3 (92 sec)
+[2017-12-11 18:59:52,277] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 18:59:52,278] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 18:59:52,278] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 18:59:52,279] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/sample/.ovenrake_deck-the-halls.mp3.sync'.  One will be generated.
+[2017-12-11 19:38:00,273] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/sample/ovenrake_deck-the-halls.mp3 (92 sec)
+[2017-12-11 19:38:00,278] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 19:38:00,279] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 19:38:00,279] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 19:38:00,280] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/sample/.ovenrake_deck-the-halls.mp3.sync'.  One will be generated.
+[2017-12-11 19:39:33,687] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/sample/.ovenrake_deck-the-halls.mp3.sync' [2001 rows]
+[2017-12-11 19:39:33,688] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/sample/.ovenrake_deck-the-halls.mp3.cfg
+[2017-12-11 20:21:10,644] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 42}
+[2017-12-11 20:21:21,875] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/queen-bohemian-rhapsody.mp3 (366 sec)
+[2017-12-11 20:21:21,877] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:21:21,878] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:21:21,878] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:21:21,879] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.queen-bohemian-rhapsody.mp3.sync'.  One will be generated.
+[2017-12-11 20:27:30,875] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.queen-bohemian-rhapsody.mp3.sync' [7901 rows]
+[2017-12-11 20:27:30,876] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.queen-bohemian-rhapsody.mp3.cfg
+[2017-12-11 20:35:09,965] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 8}
+[2017-12-11 20:35:21,189] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/miley-cyrus-party-in-the-usa.mp3 (201 sec)
+[2017-12-11 20:35:21,190] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:35:21,191] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:35:21,192] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:35:21,192] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.miley-cyrus-party-in-the-usa.mp3.sync'.  One will be generated.
+[2017-12-11 20:44:09,263] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 28}
+[2017-12-11 20:44:20,492] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/haddaway-what-is-love.mp3 (240 sec)
+[2017-12-11 20:44:20,493] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:44:20,494] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:44:20,494] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:44:20,495] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.haddaway-what-is-love.mp3.sync'.  One will be generated.
+[2017-12-11 20:45:49,138] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 34}
+[2017-12-11 20:46:00,306] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/feliz-navidad.mp3 (189 sec)
+[2017-12-11 20:46:00,307] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:46:00,308] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:46:00,308] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:46:00,309] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.feliz-navidad.mp3.sync'.  One will be generated.
+[2017-12-11 20:48:53,716] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 4}
+[2017-12-11 20:49:04,900] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/sandroll.mp3 (195 sec)
+[2017-12-11 20:49:04,901] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:49:04,902] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:49:04,903] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:49:04,904] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.sandroll.mp3.sync'.  One will be generated.
+[2017-12-11 20:50:45,147] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 39}
+[2017-12-11 20:50:56,283] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/the-fresh-prince-of-belair.mp3 (177 sec)
+[2017-12-11 20:50:56,284] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:50:56,284] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:50:56,285] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:50:56,286] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.the-fresh-prince-of-belair.mp3.sync'.  One will be generated.
+[2017-12-11 20:52:59,565] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 13}
+[2017-12-11 20:53:10,800] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/star-wars-cantina.mp3 (167 sec)
+[2017-12-11 20:53:10,801] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:53:10,802] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:53:10,803] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 20:53:10,803] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.star-wars-cantina.mp3.sync'.  One will be generated.
+[2017-12-11 21:20:00,580] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 22}
+[2017-12-11 21:20:11,779] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/shrek-anthem.mp3 (118 sec)
+[2017-12-11 21:20:11,780] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:20:11,781] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:20:11,781] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:20:11,782] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.shrek-anthem.mp3.sync'.  One will be generated.
+[2017-12-11 21:21:57,395] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 30}
+[2017-12-11 21:22:08,584] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/pokemon-theme.mp3 (201 sec)
+[2017-12-11 21:22:08,586] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:22:08,586] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:22:08,587] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:22:08,587] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.pokemon-theme.mp3.sync'.  One will be generated.
+[2017-12-11 21:28:28,568] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 0}
+[2017-12-11 21:28:39,771] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/imperial-march.mp3 (186 sec)
+[2017-12-11 21:28:39,772] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:28:39,773] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:28:39,773] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:28:39,774] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.imperial-march.mp3.sync'.  One will be generated.
+[2017-12-11 21:28:48,211] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 29}
+[2017-12-11 21:28:59,408] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/green-day-when-i-come-around.mp3 (177 sec)
+[2017-12-11 21:28:59,408] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:28:59,409] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:28:59,409] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:28:59,409] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.green-day-when-i-come-around.mp3.sync'.  One will be generated.
+[2017-12-11 21:35:38,371] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 18}
+[2017-12-11 21:35:49,568] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/mulan-ill-make-a-man-out-of-you.mp3 (198 sec)
+[2017-12-11 21:35:49,569] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:35:49,570] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:35:49,570] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:35:49,571] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.mulan-ill-make-a-man-out-of-you.mp3.sync'.  One will be generated.
+[2017-12-11 21:36:40,165] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 39}
+[2017-12-11 21:36:51,364] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/the-fresh-prince-of-belair.mp3 (177 sec)
+[2017-12-11 21:36:51,365] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:36:51,365] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:36:51,366] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:36:51,367] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.the-fresh-prince-of-belair.mp3.sync'.  One will be generated.
+[2017-12-11 21:39:49,431] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.the-fresh-prince-of-belair.mp3.sync' [3816 rows]
+[2017-12-11 21:39:49,432] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.the-fresh-prince-of-belair.mp3.cfg
+[2017-12-11 21:40:08,744] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 2}
+[2017-12-11 21:40:19,946] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/jingle-bells.mp3 (128 sec)
+[2017-12-11 21:40:19,947] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:40:19,948] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:40:19,948] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:40:19,949] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.jingle-bells.mp3.sync'.  One will be generated.
+[2017-12-11 21:42:29,067] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.jingle-bells.mp3.sync' [2765 rows]
+[2017-12-11 21:42:29,068] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.jingle-bells.mp3.cfg
+[2017-12-11 21:42:38,441] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 14}
+[2017-12-11 21:42:49,619] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/space-jam-theme.mp3 (250 sec)
+[2017-12-11 21:42:49,619] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:42:49,620] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:42:49,620] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:42:49,620] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.space-jam-theme.mp3.sync'.  One will be generated.
+[2017-12-11 21:43:54,388] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 14}
+[2017-12-11 21:44:05,589] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/space-jam-theme.mp3 (250 sec)
+[2017-12-11 21:44:05,590] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:44:05,591] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:44:05,592] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:44:05,592] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.space-jam-theme.mp3.sync'.  One will be generated.
+[2017-12-11 21:46:10,528] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 11}
+[2017-12-11 21:46:21,717] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/milky-chance-stolen-dance.mp3 (313 sec)
+[2017-12-11 21:46:21,718] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:46:21,718] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:46:21,719] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:46:21,719] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.milky-chance-stolen-dance.mp3.sync'.  One will be generated.
+[2017-12-11 21:48:11,879] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 23}
+[2017-12-11 21:48:23,095] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/n-sync-bye-bye-bye.mp3 (241 sec)
+[2017-12-11 21:48:23,096] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:48:23,097] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:48:23,097] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:48:23,098] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.n-sync-bye-bye-bye.mp3.sync'.  One will be generated.
+[2017-12-11 21:49:39,857] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 10}
+[2017-12-11 21:49:51,059] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/hello-from-the-dark-side.mp3 (159 sec)
+[2017-12-11 21:49:51,060] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:49:51,061] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:49:51,061] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:49:51,062] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.hello-from-the-dark-side.mp3.sync'.  One will be generated.
+[2017-12-11 21:51:00,413] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 23}
+[2017-12-11 21:51:11,631] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/n-sync-bye-bye-bye.mp3 (241 sec)
+[2017-12-11 21:51:11,632] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:51:11,632] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:51:11,633] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 21:51:11,633] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.n-sync-bye-bye-bye.mp3.sync'.  One will be generated.
+[2017-12-11 21:51:20,757] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 2}
+[2017-12-11 21:51:31,972] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/jingle-bells.mp3 (128 sec)
+[2017-12-11 22:20:02,160] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 5}
+[2017-12-11 22:20:13,334] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/house-of-pain-jump-around.mp3 (214 sec)
+[2017-12-11 22:20:13,335] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:20:13,335] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:20:13,335] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:20:13,336] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.house-of-pain-jump-around.mp3.sync'.  One will be generated.
+[2017-12-11 22:25:37,824] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 37}
+[2017-12-11 22:25:41,979] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/jackson-five-abc.mp3 (185 sec)
+[2017-12-11 22:25:41,980] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:25:41,981] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:25:41,982] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:25:41,982] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.jackson-five-abc.mp3.sync'.  One will be generated.
+[2017-12-11 22:27:10,154] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 24}
+[2017-12-11 22:27:14,306] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/rebeccca-black-friday.mp3 (227 sec)
+[2017-12-11 22:27:14,307] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:27:14,308] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:27:14,308] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:27:14,309] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.rebeccca-black-friday.mp3.sync'.  One will be generated.
+[2017-12-11 22:31:02,283] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.rebeccca-black-friday.mp3.sync' [4899 rows]
+[2017-12-11 22:31:02,284] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.rebeccca-black-friday.mp3.cfg
+[2017-12-11 22:31:32,067] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 29}
+[2017-12-11 22:31:36,216] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/green-day-when-i-come-around.mp3 (177 sec)
+[2017-12-11 22:31:36,217] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:31:36,218] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:31:36,218] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:31:36,219] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.green-day-when-i-come-around.mp3.sync'.  One will be generated.
+[2017-12-11 22:33:08,540] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 23}
+[2017-12-11 22:33:12,689] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/n-sync-bye-bye-bye.mp3 (241 sec)
+[2017-12-11 22:33:12,690] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:33:12,691] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:33:12,691] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:33:12,692] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.n-sync-bye-bye-bye.mp3.sync'.  One will be generated.
+[2017-12-11 22:34:36,845] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 42}
+[2017-12-11 22:34:40,993] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/queen-bohemian-rhapsody.mp3 (366 sec)
+[2017-12-11 22:34:40,996] WARNING {/home/pi/lightshowpi/py/fft.py:250} - Cached config data does not match
+[2017-12-11 22:34:40,998] WARNING {/home/pi/lightshowpi/py/fft.py:250} - Cached config data does not match
+[2017-12-11 22:34:41,000] WARNING {/home/pi/lightshowpi/py/fft.py:250} - Cached config data does not match
+[2017-12-11 22:34:41,001] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.queen-bohemian-rhapsody.mp3.sync'.  One will be generated.
+[2017-12-11 22:36:05,265] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 34}
+[2017-12-11 22:36:09,421] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/feliz-navidad.mp3 (189 sec)
+[2017-12-11 22:36:09,422] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:36:09,423] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:36:09,423] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:36:09,424] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.feliz-navidad.mp3.sync'.  One will be generated.
+[2017-12-11 22:36:58,575] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 41}
+[2017-12-11 22:37:02,725] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/spongebob-the-campfire-song-song.mp3 (61 sec)
+[2017-12-11 22:37:02,726] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:37:02,727] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:37:02,727] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:37:02,728] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.spongebob-the-campfire-song-song.mp3.sync'.  One will be generated.
+[2017-12-11 22:37:18,646] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 3}
+[2017-12-11 22:37:22,794] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/grandma_thanksgiving_song.mp3 (56 sec)
+[2017-12-11 22:37:22,795] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:37:22,796] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:37:22,796] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:37:22,797] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.grandma_thanksgiving_song.mp3.sync'.  One will be generated.
+[2017-12-11 22:38:19,533] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.grandma_thanksgiving_song.mp3.sync' [1222 rows]
+[2017-12-11 22:38:19,533] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.grandma_thanksgiving_song.mp3.cfg
+[2017-12-11 22:38:22,340] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 4}
+[2017-12-11 22:38:26,491] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/sandroll.mp3 (195 sec)
+[2017-12-11 22:38:26,492] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:38:26,493] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:38:26,493] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:38:26,494] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.sandroll.mp3.sync'.  One will be generated.
+[2017-12-11 22:39:30,300] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 21}
+[2017-12-11 22:39:34,446] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/rick-astley-never-gonna-give-you-up.mp3 (213 sec)
+[2017-12-11 22:39:34,447] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:39:34,447] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:39:34,448] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:39:34,448] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.rick-astley-never-gonna-give-you-up.mp3.sync'.  One will be generated.
+[2017-12-11 22:41:29,349] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 38}
+[2017-12-11 22:41:33,500] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/fountains-of-wayne-stacys-mom.mp3 (203 sec)
+[2017-12-11 22:41:33,501] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:41:33,502] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:41:33,502] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:41:33,503] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.fountains-of-wayne-stacys-mom.mp3.sync'.  One will be generated.
+[2017-12-11 22:42:23,247] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 21}
+[2017-12-11 22:42:27,396] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/rick-astley-never-gonna-give-you-up.mp3 (213 sec)
+[2017-12-11 22:42:27,398] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:42:27,398] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:42:27,399] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:42:27,399] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.rick-astley-never-gonna-give-you-up.mp3.sync'.  One will be generated.
+[2017-12-11 22:46:01,129] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.rick-astley-never-gonna-give-you-up.mp3.sync' [4591 rows]
+[2017-12-11 22:46:01,130] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.rick-astley-never-gonna-give-you-up.mp3.cfg
+[2017-12-11 22:46:55,029] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 17}
+[2017-12-11 22:46:59,182] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/darude-sandstorm.mp3 (244 sec)
+[2017-12-11 22:46:59,183] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:46:59,183] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:46:59,184] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:46:59,184] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.darude-sandstorm.mp3.sync'.  One will be generated.
+[2017-12-11 22:48:44,849] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 4}
+[2017-12-11 22:48:49,001] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/sandroll.mp3 (195 sec)
+[2017-12-11 22:48:49,003] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:48:49,003] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:48:49,004] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 22:48:49,004] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.sandroll.mp3.sync'.  One will be generated.
+[2017-12-11 23:21:36,851] INFO {/home/pi/lightshowpi/py/configuration_manager.py:161} - Updating application state {current_song: 28}
+[2017-12-11 23:21:41,001] INFO {py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/haddaway-what-is-love.mp3 (240 sec)
+[2017-12-11 23:21:41,002] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 23:21:41,003] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 23:21:41,003] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 23:21:41,004] WARNING {py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.haddaway-what-is-love.mp3.sync'.  One will be generated.
+[2017-12-11 23:25:42,503] INFO {py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.haddaway-what-is-love.mp3.sync' [5186 rows]
+[2017-12-11 23:25:42,504] INFO {py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.haddaway-what-is-love.mp3.cfg
+[2017-12-11 23:31:29,703] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/darude-sandstorm.mp3 (244 sec)
+[2017-12-11 23:31:29,704] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 23:31:29,705] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 23:31:29,706] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-11 23:31:29,706] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.darude-sandstorm.mp3.sync'.  One will be generated.
+[2017-12-11 23:35:35,315] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.darude-sandstorm.mp3.sync' [5277 rows]
+[2017-12-11 23:35:35,316] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.darude-sandstorm.mp3.cfg
+[2017-12-12 00:17:31,772] INFO {./synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/darude-sandstorm.mp3 (244 sec)
+[2017-12-12 00:31:19,810] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/star-wars-cantina.mp3 (167 sec)
+[2017-12-12 00:31:19,812] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:31:19,812] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:31:19,813] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:31:19,814] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.star-wars-cantina.mp3.sync'.  One will be generated.
+[2017-12-12 00:31:59,417] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/darude-sandstorm.mp3 (244 sec)
+[2017-12-12 00:39:08,132] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/psy-gangam-style.mp3 (252 sec)
+[2017-12-12 00:39:08,134] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:39:08,134] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:39:08,135] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:39:08,135] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.psy-gangam-style.mp3.sync'.  One will be generated.
+[2017-12-12 00:47:57,639] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/nightcore-every-time-we-touch.mp3 (186 sec)
+[2017-12-12 00:47:57,640] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:47:57,640] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:47:57,641] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:47:57,641] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.nightcore-every-time-we-touch.mp3.sync'.  One will be generated.
+[2017-12-12 00:48:12,020] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/nightcore-every-time-we-touch.mp3 (186 sec)
+[2017-12-12 00:48:12,022] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:48:12,022] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:48:12,023] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 00:48:12,023] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.nightcore-every-time-we-touch.mp3.sync'.  One will be generated.
+[2017-12-12 00:51:19,239] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.nightcore-every-time-we-touch.mp3.sync' [4019 rows]
+[2017-12-12 00:51:19,239] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.nightcore-every-time-we-touch.mp3.cfg
+[2017-12-12 01:11:38,505] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/shrek-anthem.mp3 (118 sec)
+[2017-12-12 01:11:38,507] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:11:38,507] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:11:38,508] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:11:38,508] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.shrek-anthem.mp3.sync'.  One will be generated.
+[2017-12-12 01:13:37,046] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.shrek-anthem.mp3.sync' [2549 rows]
+[2017-12-12 01:13:37,047] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.shrek-anthem.mp3.cfg
+[2017-12-12 01:42:19,104] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/star-wars-cantina.mp3 (167 sec)
+[2017-12-12 01:42:19,105] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:42:19,106] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:42:19,106] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:42:19,107] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.star-wars-cantina.mp3.sync'.  One will be generated.
+[2017-12-12 01:42:39,038] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/star-wars-cantina.mp3 (167 sec)
+[2017-12-12 01:42:39,040] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:42:39,040] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:42:39,041] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:42:39,041] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.star-wars-cantina.mp3.sync'.  One will be generated.
+[2017-12-12 01:43:20,915] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/star-wars-cantina.mp3 (167 sec)
+[2017-12-12 01:43:20,916] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:43:20,916] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:43:20,917] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 01:43:20,917] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.star-wars-cantina.mp3.sync'.  One will be generated.
+[2017-12-12 02:11:12,341] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/katy-perry-roar.mp3 (269 sec)
+[2017-12-12 02:11:12,342] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:11:12,343] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:11:12,343] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:11:12,343] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.katy-perry-roar.mp3.sync'.  One will be generated.
+[2017-12-12 02:29:19,487] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/house-of-pain-jump-around.mp3 (214 sec)
+[2017-12-12 02:29:19,488] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:29:19,494] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:29:19,495] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:29:19,495] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.house-of-pain-jump-around.mp3.sync'.  One will be generated.
+[2017-12-12 02:33:19,168] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/smashmouth-all-star.mp3 (202 sec)
+[2017-12-12 02:33:19,173] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:33:19,173] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:33:19,174] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:33:19,174] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.smashmouth-all-star.mp3.sync'.  One will be generated.
+[2017-12-12 02:34:34,873] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/imperial-march.mp3 (186 sec)
+[2017-12-12 02:34:34,874] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:34:34,874] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:34:34,875] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:34:34,875] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.imperial-march.mp3.sync'.  One will be generated.
+[2017-12-12 02:35:13,745] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/ween_ocean_man.mp3 (127 sec)
+[2017-12-12 02:35:13,747] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:35:13,747] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:35:13,748] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:35:13,748] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.ween_ocean_man.mp3.sync'.  One will be generated.
+[2017-12-12 02:35:59,255] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/star-wars-cantina.mp3 (167 sec)
+[2017-12-12 02:35:59,256] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:35:59,257] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:35:59,257] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:35:59,257] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.star-wars-cantina.mp3.sync'.  One will be generated.
+[2017-12-12 02:36:34,449] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/moms-spaghetti.mp3 (277 sec)
+[2017-12-12 02:36:34,449] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:36:34,450] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:36:34,450] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:36:34,450] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.moms-spaghetti.mp3.sync'.  One will be generated.
+[2017-12-12 02:37:33,848] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/smashmouth-all-star.mp3 (202 sec)
+[2017-12-12 02:37:33,849] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:37:33,849] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:37:33,850] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:37:33,850] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.smashmouth-all-star.mp3.sync'.  One will be generated.
+[2017-12-12 02:38:02,219] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/journey-dont-stop-believin.mp3 (250 sec)
+[2017-12-12 02:38:02,220] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:38:02,220] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:38:02,221] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:38:02,221] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.journey-dont-stop-believin.mp3.sync'.  One will be generated.
+[2017-12-12 02:42:41,374] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/dragonforce-through-the-fire_and-flames.mp3 (444 sec)
+[2017-12-12 02:42:41,376] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:42:41,376] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:42:41,377] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 02:42:41,377] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.dragonforce-through-the-fire_and-flames.mp3.sync'.  One will be generated.
+[2017-12-12 03:23:20,751] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/nightcore-every-time-we-touch.mp3 (186 sec)
+[2017-12-12 03:30:37,184] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/john-cena.mp3 (13 sec)
+[2017-12-12 03:30:37,185] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:30:37,185] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:30:37,185] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:30:37,186] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.john-cena.mp3.sync'.  One will be generated.
+[2017-12-12 03:30:50,652] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.john-cena.mp3.sync' [319 rows]
+[2017-12-12 03:30:50,653] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.john-cena.mp3.cfg
+[2017-12-12 03:31:08,721] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/moms-spaghetti.mp3 (277 sec)
+[2017-12-12 03:31:08,722] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:31:08,722] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:31:08,723] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:31:08,723] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.moms-spaghetti.mp3.sync'.  One will be generated.
+[2017-12-12 03:32:20,940] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/the-fresh-prince-of-belair.mp3 (177 sec)
+[2017-12-12 03:32:20,942] WARNING {/home/pi/lightshowpi/py/fft.py:250} - Cached config data does not match
+[2017-12-12 03:32:20,944] WARNING {/home/pi/lightshowpi/py/fft.py:250} - Cached config data does not match
+[2017-12-12 03:32:20,945] WARNING {/home/pi/lightshowpi/py/fft.py:250} - Cached config data does not match
+[2017-12-12 03:32:20,945] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.the-fresh-prince-of-belair.mp3.sync'.  One will be generated.
+[2017-12-12 03:34:07,043] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/darude-sandstorm.mp3 (244 sec)
+[2017-12-12 03:35:16,906] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/mulan-ill-make-a-man-out-of-you.mp3 (198 sec)
+[2017-12-12 03:35:16,907] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:35:16,907] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:35:16,908] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:35:16,908] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.mulan-ill-make-a-man-out-of-you.mp3.sync'.  One will be generated.
+[2017-12-12 03:36:15,076] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/smashmouth-all-star.mp3 (202 sec)
+[2017-12-12 03:36:15,078] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:36:15,078] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:36:15,079] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:36:15,079] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.smashmouth-all-star.mp3.sync'.  One will be generated.
+[2017-12-12 03:39:38,052] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.smashmouth-all-star.mp3.sync' [4359 rows]
+[2017-12-12 03:39:38,052] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.smashmouth-all-star.mp3.cfg
+[2017-12-12 03:39:59,895] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/grandma-got-run-over.mp3 (207 sec)
+[2017-12-12 03:39:59,896] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:39:59,896] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:39:59,896] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:39:59,897] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.grandma-got-run-over.mp3.sync'.  One will be generated.
+[2017-12-12 03:41:13,390] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/ween_ocean_man.mp3 (127 sec)
+[2017-12-12 03:41:13,391] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:41:13,392] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:41:13,392] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 03:41:13,392] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.ween_ocean_man.mp3.sync'.  One will be generated.
+[2017-12-12 03:43:21,281] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.ween_ocean_man.mp3.sync' [2750 rows]
+[2017-12-12 03:43:21,282] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.ween_ocean_man.mp3.cfg
+[2017-12-12 04:33:34,653] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/space-jam-theme.mp3 (250 sec)
+[2017-12-12 04:33:34,654] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:33:34,654] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:33:34,654] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:33:34,655] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.space-jam-theme.mp3.sync'.  One will be generated.
+[2017-12-12 04:36:43,191] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/spongebob-the-campfire-song-song.mp3 (61 sec)
+[2017-12-12 04:36:43,193] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:36:43,193] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:36:43,194] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:36:43,194] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.spongebob-the-campfire-song-song.mp3.sync'.  One will be generated.
+[2017-12-12 04:37:44,395] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.spongebob-the-campfire-song-song.mp3.sync' [1318 rows]
+[2017-12-12 04:37:44,395] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.spongebob-the-campfire-song-song.mp3.cfg
+[2017-12-12 04:38:28,042] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/queen-bohemian-rhapsody.mp3 (366 sec)
+[2017-12-12 04:39:27,101] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/vanilla-ice-ice-ice-baby.mp3 (241 sec)
+[2017-12-12 04:39:27,102] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:39:27,102] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:39:27,103] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 04:39:27,103] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.vanilla-ice-ice-ice-baby.mp3.sync'.  One will be generated.
+[2017-12-12 04:43:28,722] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.vanilla-ice-ice-ice-baby.mp3.sync' [5192 rows]
+[2017-12-12 04:43:28,722] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.vanilla-ice-ice-ice-baby.mp3.cfg
+[2017-12-12 05:10:28,910] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/jackson-five-abc.mp3 (185 sec)
+[2017-12-12 05:10:28,911] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:10:28,912] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:10:28,912] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:10:28,912] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.jackson-five-abc.mp3.sync'.  One will be generated.
+[2017-12-12 05:12:51,045] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/psy-gangam-style.mp3 (252 sec)
+[2017-12-12 05:12:51,046] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:12:51,047] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:12:51,047] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:12:51,047] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.psy-gangam-style.mp3.sync'.  One will be generated.
+[2017-12-12 05:15:55,643] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/shrek-anthem.mp3 (118 sec)
+[2017-12-12 05:16:28,994] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/john-cena.mp3 (13 sec)
+[2017-12-12 05:17:17,351] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/mariah-carey-all-i-want-for-christmas-is-you.mp3 (235 sec)
+[2017-12-12 05:17:17,352] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:17:17,352] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:17:17,352] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:17:17,353] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.mariah-carey-all-i-want-for-christmas-is-you.mp3.sync'.  One will be generated.
+[2017-12-12 05:21:13,109] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.mariah-carey-all-i-want-for-christmas-is-you.mp3.sync' [5064 rows]
+[2017-12-12 05:21:13,110] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.mariah-carey-all-i-want-for-christmas-is-you.mp3.cfg
+[2017-12-12 05:21:41,859] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/miley-cyrus-party-in-the-usa.mp3 (201 sec)
+[2017-12-12 05:21:41,860] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:21:41,860] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:21:41,860] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:21:41,860] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.miley-cyrus-party-in-the-usa.mp3.sync'.  One will be generated.
+[2017-12-12 05:25:03,496] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.miley-cyrus-party-in-the-usa.mp3.sync' [4332 rows]
+[2017-12-12 05:25:03,497] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.miley-cyrus-party-in-the-usa.mp3.cfg
+[2017-12-12 05:25:40,806] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/journey-dont-stop-believin.mp3 (250 sec)
+[2017-12-12 05:25:40,807] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:25:40,808] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:25:40,808] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:25:40,809] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.journey-dont-stop-believin.mp3.sync'.  One will be generated.
+[2017-12-12 05:28:09,439] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/phineas-and-ferb-swinter.mp3 (77 sec)
+[2017-12-12 05:28:09,440] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:28:09,440] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:28:09,440] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:28:09,440] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.phineas-and-ferb-swinter.mp3.sync'.  One will be generated.
+[2017-12-12 05:28:48,066] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/dont_be_a_jerk_its_christmas.mp3 (150 sec)
+[2017-12-12 05:28:48,067] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:28:48,067] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:28:48,067] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 05:28:48,068] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.dont_be_a_jerk_its_christmas.mp3.sync'.  One will be generated.
+[2017-12-12 06:30:03,426] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Enrique Iglesias - Bailando.mp3 (243 sec)
+[2017-12-12 06:30:03,428] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 06:30:03,428] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 06:30:03,429] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 06:30:03,429] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Enrique Iglesias - Bailando.mp3.sync'.  One will be generated.
+[2017-12-12 06:58:30,817] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Phineas and Ferb - Swinter.mp3 (77 sec)
+[2017-12-12 06:58:30,818] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 06:58:30,819] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 06:58:30,819] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 06:58:30,820] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Phineas and Ferb - Swinter.mp3.sync'.  One will be generated.
+[2017-12-12 06:59:48,513] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Phineas and Ferb - Swinter.mp3.sync' [1671 rows]
+[2017-12-12 06:59:48,513] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Phineas and Ferb - Swinter.mp3.cfg
+[2017-12-12 07:00:03,669] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/The Fresh Prince Of Belair.mp3 (177 sec)
+[2017-12-12 07:00:03,670] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:00:03,670] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:00:03,670] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:00:03,671] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.The Fresh Prince Of Belair.mp3.sync'.  One will be generated.
+[2017-12-12 07:03:01,222] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.The Fresh Prince Of Belair.mp3.sync' [3816 rows]
+[2017-12-12 07:03:01,223] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.The Fresh Prince Of Belair.mp3.cfg
+[2017-12-12 07:03:17,045] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Queen - Bohemian Rhapsody.mp3 (366 sec)
+[2017-12-12 07:03:17,046] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:03:17,047] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:03:17,047] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:03:17,047] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Queen - Bohemian Rhapsody.mp3.sync'.  One will be generated.
+[2017-12-12 07:09:24,903] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Queen - Bohemian Rhapsody.mp3.sync' [7901 rows]
+[2017-12-12 07:09:24,903] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Queen - Bohemian Rhapsody.mp3.cfg
+[2017-12-12 07:43:07,354] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - Don't Be A Jerk, It's Chrismas.mp3 (150 sec)
+[2017-12-12 07:43:07,354] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:43:07,355] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:43:07,355] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:43:07,355] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Spongebob - Don't Be A Jerk, It's Chrismas.mp3.sync'.  One will be generated.
+[2017-12-12 07:45:37,772] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Spongebob - Don't Be A Jerk, It's Chrismas.mp3.sync' [3234 rows]
+[2017-12-12 07:45:37,773] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Spongebob - Don't Be A Jerk, It's Chrismas.mp3.cfg
+[2017-12-12 07:54:30,121] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-12 07:54:30,122] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:54:30,122] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:54:30,122] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:54:30,123] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Blue Swede Hooked On A Feeling.mp3.sync'.  One will be generated.
+[2017-12-12 07:54:51,718] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Enrique Iglesias - Bailando.mp3 (243 sec)
+[2017-12-12 07:54:51,720] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:54:51,720] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:54:51,721] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:54:51,721] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Enrique Iglesias - Bailando.mp3.sync'.  One will be generated.
+[2017-12-12 07:58:55,557] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Enrique Iglesias - Bailando.mp3.sync' [5239 rows]
+[2017-12-12 07:58:55,557] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Enrique Iglesias - Bailando.mp3.cfg
+[2017-12-12 07:59:11,872] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Fergie - Fergalicious.mp3 (226 sec)
+[2017-12-12 07:59:11,873] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:59:11,874] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:59:11,875] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 07:59:11,875] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Fergie - Fergalicious.mp3.sync'.  One will be generated.
+[2017-12-12 08:50:33,961] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Fall Out Boy - Light Em Up.mp3 (187 sec)
+[2017-12-12 08:50:33,962] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:50:33,962] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:50:33,962] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:50:33,963] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Fall Out Boy - Light Em Up.mp3.sync'.  One will be generated.
+[2017-12-12 08:52:24,309] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Seinfeld Theme.mp3 (53 sec)
+[2017-12-12 08:52:24,310] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:52:24,310] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:52:24,310] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:52:24,310] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Seinfeld Theme.mp3.sync'.  One will be generated.
+[2017-12-12 08:53:17,452] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Seinfeld Theme.mp3.sync' [1146 rows]
+[2017-12-12 08:53:17,453] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Seinfeld Theme.mp3.cfg
+[2017-12-12 08:53:48,876] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Phineas and Ferb - Swinter.mp3 (77 sec)
+[2017-12-12 08:56:17,758] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Star Wars Cantina.mp3 (167 sec)
+[2017-12-12 08:56:17,759] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:56:17,759] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:56:17,759] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:56:17,760] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Star Wars Cantina.mp3.sync'.  One will be generated.
+[2017-12-12 08:59:05,319] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Star Wars Cantina.mp3.sync' [3602 rows]
+[2017-12-12 08:59:05,320] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Star Wars Cantina.mp3.cfg
+[2017-12-12 08:59:15,262] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-12 08:59:15,264] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:59:15,264] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:59:15,265] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 08:59:15,265] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-12 09:05:57,758] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Space Jam Theme.mp3 (250 sec)
+[2017-12-12 09:05:57,759] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 09:05:57,760] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 09:05:57,760] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-12 09:05:57,760] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Space Jam Theme.mp3.sync'.  One will be generated.
+[2017-12-12 09:10:09,243] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Space Jam Theme.mp3.sync' [5389 rows]
+[2017-12-12 09:10:09,244] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Space Jam Theme.mp3.cfg
+[2017-12-13 16:02:00,109] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Sandroll.mp3 (195 sec)
+[2017-12-13 16:02:00,114] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-13 16:02:00,115] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-13 16:02:00,116] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-13 16:02:00,116] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Sandroll.mp3.sync'.  One will be generated.
+[2017-12-14 08:41:10,190] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Psy - Gangam Style.mp3 (252 sec)
+[2017-12-14 08:41:10,194] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:41:10,194] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:41:10,195] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:41:10,195] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Psy - Gangam Style.mp3.sync'.  One will be generated.
+[2017-12-14 08:42:59,495] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Phineas and Ferb - Swinter.mp3 (77 sec)
+[2017-12-14 08:44:45,279] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - The Campfire Song Song.mp3 (61 sec)
+[2017-12-14 08:44:45,280] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:44:45,281] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:44:45,281] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:44:45,282] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Spongebob - The Campfire Song Song.mp3.sync'.  One will be generated.
+[2017-12-14 08:45:46,446] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Spongebob - The Campfire Song Song.mp3.sync' [1318 rows]
+[2017-12-14 08:45:46,446] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Spongebob - The Campfire Song Song.mp3.cfg
+[2017-12-14 08:46:50,998] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/fountains-of-wayne-stacy's-mom.mp3 (203 sec)
+[2017-12-14 08:46:51,000] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:46:51,000] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:46:51,002] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:46:51,003] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.fountains-of-wayne-stacy's-mom.mp3.sync'.  One will be generated.
+[2017-12-14 08:47:27,802] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - Don't Be A Jerk, It's Chrismas.mp3 (150 sec)
+[2017-12-14 08:50:13,139] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanilla Ice - Ice Ice Baby.mp3 (241 sec)
+[2017-12-14 08:50:13,140] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:50:13,140] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:50:13,140] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:50:13,140] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Vanilla Ice - Ice Ice Baby.mp3.sync'.  One will be generated.
+[2017-12-14 08:54:14,784] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Vanilla Ice - Ice Ice Baby.mp3.sync' [5192 rows]
+[2017-12-14 08:54:14,784] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Vanilla Ice - Ice Ice Baby.mp3.cfg
+[2017-12-14 08:56:32,441] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-14 08:56:32,442] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:56:32,443] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:56:32,443] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 08:56:32,443] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Blue Swede Hooked On A Feeling.mp3.sync'.  One will be generated.
+[2017-12-14 08:59:20,542] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Blue Swede Hooked On A Feeling.mp3.sync' [3612 rows]
+[2017-12-14 08:59:20,543] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Blue Swede Hooked On A Feeling.mp3.cfg
+[2017-12-14 09:01:22,434] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Haddaway - What Is Love.mp3 (240 sec)
+[2017-12-14 09:01:22,435] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:01:22,435] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:01:22,435] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:01:22,436] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Haddaway - What Is Love.mp3.sync'.  One will be generated.
+[2017-12-14 09:05:23,866] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Haddaway - What Is Love.mp3.sync' [5186 rows]
+[2017-12-14 09:05:23,867] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Haddaway - What Is Love.mp3.cfg
+[2017-12-14 09:07:15,170] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-14 09:08:08,434] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mulan - I'll Make A Man Out Of You.mp3 (198 sec)
+[2017-12-14 09:08:08,435] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:08:08,435] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:08:08,436] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:08:08,436] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Mulan - I'll Make A Man Out Of You.mp3.sync'.  One will be generated.
+[2017-12-14 09:11:26,953] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Mulan - I'll Make A Man Out Of You.mp3.sync' [4267 rows]
+[2017-12-14 09:11:26,953] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Mulan - I'll Make A Man Out Of You.mp3.cfg
+[2017-12-14 09:16:03,904] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3 (205 sec)
+[2017-12-14 09:16:03,905] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:16:03,905] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:16:03,906] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:16:03,906] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3.sync'.  One will be generated.
+[2017-12-14 09:19:29,937] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3.sync' [4818 rows]
+[2017-12-14 09:19:29,938] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3.cfg
+[2017-12-14 09:19:46,798] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/N-Sync - Bye Bye Bye.mp3 (241 sec)
+[2017-12-14 09:19:46,798] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:19:46,799] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:19:46,799] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:19:46,799] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.N-Sync - Bye Bye Bye.mp3.sync'.  One will be generated.
+[2017-12-14 09:20:27,875] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Smashmouth - All-star.mp3 (202 sec)
+[2017-12-14 09:20:27,876] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:20:27,876] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:20:27,876] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:20:27,876] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Smashmouth - All-star.mp3.sync'.  One will be generated.
+[2017-12-14 09:23:50,743] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Smashmouth - All-star.mp3.sync' [4359 rows]
+[2017-12-14 09:23:50,744] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Smashmouth - All-star.mp3.cfg
+[2017-12-14 09:24:24,697] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Star Wars Cantina.mp3 (167 sec)
+[2017-12-14 09:26:08,279] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/The Fresh Prince Of Belair.mp3 (177 sec)
+[2017-12-14 09:29:45,432] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Space Jam Theme.mp3 (250 sec)
+[2017-12-14 09:34:19,487] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Journey Don't Stop Believin.mp3 (250 sec)
+[2017-12-14 09:34:19,487] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:34:19,488] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:34:19,488] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:34:19,488] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Journey Don't Stop Believin.mp3.sync'.  One will be generated.
+[2017-12-14 09:34:43,659] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Sandroll.mp3 (195 sec)
+[2017-12-14 09:34:43,659] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:34:43,660] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:34:43,660] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:34:43,660] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Sandroll.mp3.sync'.  One will be generated.
+[2017-12-14 09:37:59,537] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Sandroll.mp3.sync' [4210 rows]
+[2017-12-14 09:37:59,538] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Sandroll.mp3.cfg
+[2017-12-14 09:38:11,001] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Imad Royal-Bad4 U.mp3 (177 sec)
+[2017-12-14 09:38:11,002] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:38:11,002] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:38:11,002] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 09:38:11,003] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Imad Royal-Bad4 U.mp3.sync'.  One will be generated.
+[2017-12-14 09:40:58,404] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Seinfeld Theme.mp3 (53 sec)
+[2017-12-14 10:33:40,495] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Enrique Iglesias - Bailando.mp3 (243 sec)
+[2017-12-14 11:00:16,478] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/N-Sync - Bye Bye Bye.mp3 (241 sec)
+[2017-12-14 11:00:16,479] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:00:16,480] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:00:16,481] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:00:16,481] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.N-Sync - Bye Bye Bye.mp3.sync'.  One will be generated.
+[2017-12-14 11:04:18,568] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.N-Sync - Bye Bye Bye.mp3.sync' [5200 rows]
+[2017-12-14 11:04:18,568] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.N-Sync - Bye Bye Bye.mp3.cfg
+[2017-12-14 11:04:39,989] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-14 11:05:36,537] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-14 11:05:57,341] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Fall Out Boys - Light Em Up.mp3 (187 sec)
+[2017-12-14 11:05:57,341] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:05:57,342] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:05:57,342] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:05:57,342] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Fall Out Boys - Light Em Up.mp3.sync'.  One will be generated.
+[2017-12-14 11:09:05,709] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Fall Out Boys - Light Em Up.mp3.sync' [4049 rows]
+[2017-12-14 11:09:05,709] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Fall Out Boys - Light Em Up.mp3.cfg
+[2017-12-14 11:09:20,613] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-14 11:09:20,614] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:09:20,615] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:09:20,615] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:09:20,616] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-14 11:09:55,251] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Fergie - Fergalicious.mp3 (226 sec)
+[2017-12-14 11:09:55,252] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:09:55,253] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:09:55,253] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:09:55,253] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Fergie - Fergalicious.mp3.sync'.  One will be generated.
+[2017-12-14 11:13:38,791] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rebecca Black - Friday.mp3 (227 sec)
+[2017-12-14 11:13:38,792] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:13:38,792] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:13:38,793] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:13:38,793] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Rebecca Black - Friday.mp3.sync'.  One will be generated.
+[2017-12-14 11:15:21,284] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanessa Carlton - A Thousand Miles.mp3 (268 sec)
+[2017-12-14 11:15:21,285] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:15:21,286] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:15:21,286] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:15:21,286] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Vanessa Carlton - A Thousand Miles.mp3.sync'.  One will be generated.
+[2017-12-14 11:19:50,771] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Vanessa Carlton - A Thousand Miles.mp3.sync' [5790 rows]
+[2017-12-14 11:19:50,771] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Vanessa Carlton - A Thousand Miles.mp3.cfg
+[2017-12-14 11:20:23,976] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Grandma Got Run Over.mp3 (207 sec)
+[2017-12-14 11:20:23,978] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:20:23,978] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:20:23,979] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:20:23,979] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Grandma Got Run Over.mp3.sync'.  One will be generated.
+[2017-12-14 11:23:51,700] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Grandma Got Run Over.mp3.sync' [4462 rows]
+[2017-12-14 11:23:51,701] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Grandma Got Run Over.mp3.cfg
+[2017-12-14 11:24:08,597] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rick Astley - Never Gonna Give You Up.mp3 (213 sec)
+[2017-12-14 11:24:08,598] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:24:08,598] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:24:08,598] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:24:08,599] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Rick Astley - Never Gonna Give You Up.mp3.sync'.  One will be generated.
+[2017-12-14 11:27:42,211] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Rick Astley - Never Gonna Give You Up.mp3.sync' [4591 rows]
+[2017-12-14 11:27:42,212] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Rick Astley - Never Gonna Give You Up.mp3.cfg
+[2017-12-14 11:27:56,422] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Imperial March.mp3 (186 sec)
+[2017-12-14 11:27:56,423] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:27:56,423] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:27:56,423] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 11:27:56,424] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Imperial March.mp3.sync'.  One will be generated.
+[2017-12-14 12:58:46,185] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanilla Ice - Ice Ice Baby.mp3 (241 sec)
+[2017-12-14 13:27:09,419] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - The Campfire Song Song.mp3 (61 sec)
+[2017-12-14 13:30:29,589] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Milky Chance - Stolen Dance.mp3 (313 sec)
+[2017-12-14 13:30:29,589] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:30:29,590] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:30:29,590] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:30:29,590] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Milky Chance - Stolen Dance.mp3.sync'.  One will be generated.
+[2017-12-14 13:35:44,160] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-14 13:35:44,162] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:35:44,162] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:35:44,163] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:35:44,163] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-14 13:38:43,411] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Miley Cyrus - Party In The USA.mp3 (201 sec)
+[2017-12-14 13:38:43,412] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:38:43,412] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:38:43,412] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:38:43,413] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Miley Cyrus - Party In The USA.mp3.sync'.  One will be generated.
+[2017-12-14 13:42:05,067] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Miley Cyrus - Party In The USA.mp3.sync' [4332 rows]
+[2017-12-14 13:42:05,067] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Miley Cyrus - Party In The USA.mp3.cfg
+[2017-12-14 13:55:34,995] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mom's Spaghetti.mp3 (277 sec)
+[2017-12-14 13:55:34,996] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:55:34,997] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:55:34,997] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:55:34,997] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Mom's Spaghetti.mp3.sync'.  One will be generated.
+[2017-12-14 13:56:28,902] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-14 13:56:28,903] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:56:28,903] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:56:28,903] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:56:28,904] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-14 13:57:57,737] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Fergie - Fergalicious.mp3 (226 sec)
+[2017-12-14 13:57:57,738] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:57:57,738] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:57:57,739] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:57:57,739] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Fergie - Fergalicious.mp3.sync'.  One will be generated.
+[2017-12-14 13:58:52,384] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/John Cena.mp3 (13 sec)
+[2017-12-14 13:58:52,385] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:58:52,386] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:58:52,386] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:58:52,387] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.John Cena.mp3.sync'.  One will be generated.
+[2017-12-14 13:59:17,905] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/John Cena.mp3 (13 sec)
+[2017-12-14 13:59:17,906] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:59:17,907] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:59:17,907] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 13:59:17,907] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.John Cena.mp3.sync'.  One will be generated.
+[2017-12-14 13:59:31,387] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.John Cena.mp3.sync' [319 rows]
+[2017-12-14 13:59:31,387] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.John Cena.mp3.cfg
+[2017-12-14 14:35:21,199] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Seinfeld Theme.mp3 (53 sec)
+[2017-12-14 14:36:00,403] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mom's Spaghetti.mp3 (277 sec)
+[2017-12-14 14:36:00,404] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:36:00,405] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:36:00,405] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:36:00,405] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Mom's Spaghetti.mp3.sync'.  One will be generated.
+[2017-12-14 14:39:32,743] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mulan - I'll Make A Man Out Of You.mp3 (198 sec)
+[2017-12-14 14:41:51,933] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Phineas and Ferb - Swinter.mp3 (77 sec)
+[2017-12-14 14:42:18,471] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-14 14:42:18,472] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:42:18,472] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:42:18,472] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:42:18,473] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-14 14:43:06,662] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - Don't Be A Jerk, It's Chrismas.mp3 (150 sec)
+[2017-12-14 14:44:42,731] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Journey Don't Stop Believin.mp3 (250 sec)
+[2017-12-14 14:44:42,731] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:44:42,732] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:44:42,732] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-14 14:44:42,732] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Journey Don't Stop Believin.mp3.sync'.  One will be generated.
+[2017-12-14 14:47:42,730] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanilla Ice - Ice Ice Baby.mp3 (241 sec)
+[2017-12-14 14:50:05,880] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanessa Carlton - A Thousand Miles.mp3 (268 sec)
+[2017-12-15 08:44:08,215] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Beastie Boys - Intergalactic.mp3 (229 sec)
+[2017-12-15 08:44:08,221] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 08:44:08,222] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 08:44:08,222] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 08:44:08,223] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Beastie Boys - Intergalactic.mp3.sync'.  One will be generated.
+[2017-12-15 08:45:13,662] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Shrek Anthem.mp3 (118 sec)
+[2017-12-15 08:45:13,662] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 08:45:13,663] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 08:45:13,663] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 08:45:13,663] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Shrek Anthem.mp3.sync'.  One will be generated.
+[2017-12-15 08:47:12,194] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Shrek Anthem.mp3.sync' [2549 rows]
+[2017-12-15 08:47:12,195] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Shrek Anthem.mp3.cfg
+[2017-12-15 09:35:48,272] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Beastie Boys - Intergalactic.mp3 (229 sec)
+[2017-12-15 09:35:48,273] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 09:35:48,273] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 09:35:48,273] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 09:35:48,273] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Beastie Boys - Intergalactic.mp3.sync'.  One will be generated.
+[2017-12-15 09:39:38,936] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Beastie Boys - Intergalactic.mp3.sync' [5392 rows]
+[2017-12-15 09:39:38,937] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Beastie Boys - Intergalactic.mp3.cfg
+[2017-12-15 10:33:27,334] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rebecca Black - Friday.mp3 (227 sec)
+[2017-12-15 10:33:27,335] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 10:33:27,335] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 10:33:27,336] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 10:33:27,337] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Rebecca Black - Friday.mp3.sync'.  One will be generated.
+[2017-12-15 10:37:15,296] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Rebecca Black - Friday.mp3.sync' [4899 rows]
+[2017-12-15 10:37:15,297] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Rebecca Black - Friday.mp3.cfg
+[2017-12-15 13:00:33,842] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rebecca Black - Friday.mp3 (227 sec)
+[2017-12-15 13:55:02,040] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rebecca Black - Friday.mp3 (227 sec)
+[2017-12-15 13:59:00,156] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Drowning Pool - Bodies.mp3 (219 sec)
+[2017-12-15 13:59:00,157] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 13:59:00,157] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 13:59:00,157] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 13:59:00,157] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Drowning Pool - Bodies.mp3.sync'.  One will be generated.
+[2017-12-15 14:01:50,954] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Carol Of The Bells.mp3 (179 sec)
+[2017-12-15 14:01:50,955] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:01:50,955] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:01:50,955] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:01:50,956] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Carol Of The Bells.mp3.sync'.  One will be generated.
+[2017-12-15 14:04:50,449] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Carol Of The Bells.mp3.sync' [3858 rows]
+[2017-12-15 14:04:50,449] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Carol Of The Bells.mp3.cfg
+[2017-12-15 14:55:49,481] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Nirvana - Smells Like Teen Spirit.mp3 (277 sec)
+[2017-12-15 14:55:49,482] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:55:49,482] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:55:49,482] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:55:49,483] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Nirvana - Smells Like Teen Spirit.mp3.sync'.  One will be generated.
+[2017-12-15 14:58:04,167] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Katy Perry - Roar.mp3 (269 sec)
+[2017-12-15 14:58:04,168] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:58:04,169] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:58:04,169] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-15 14:58:04,169] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Katy Perry - Roar.mp3.sync'.  One will be generated.
+[2017-12-15 15:02:34,022] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Katy Perry - Roar.mp3.sync' [5799 rows]
+[2017-12-15 15:02:34,022] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Katy Perry - Roar.mp3.cfg
+[2017-12-18 08:42:55,587] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mariah Carey - All I Want For Christmas Is You.mp3 (235 sec)
+[2017-12-18 08:42:55,592] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-18 08:42:55,593] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-18 08:42:55,593] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-18 08:42:55,593] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Mariah Carey - All I Want For Christmas Is You.mp3.sync'.  One will be generated.
+[2017-12-18 08:46:51,285] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Mariah Carey - All I Want For Christmas Is You.mp3.sync' [5064 rows]
+[2017-12-18 08:46:51,286] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Mariah Carey - All I Want For Christmas Is You.mp3.cfg
+[2017-12-18 10:36:55,015] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Europe The Final Countdown.mp3 (74 sec)
+[2017-12-18 10:36:55,016] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-18 10:36:55,017] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-18 10:36:55,017] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-18 10:36:55,017] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Europe The Final Countdown.mp3.sync'.  One will be generated.
+[2017-12-18 10:38:09,134] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Europe The Final Countdown.mp3.sync' [1737 rows]
+[2017-12-18 10:38:09,134] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Europe The Final Countdown.mp3.cfg
+[2017-12-19 08:34:54,634] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Feliz Navidad.mp3 (189 sec)
+[2017-12-19 08:34:54,640] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-19 08:34:54,641] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-19 08:34:54,641] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-19 08:34:54,642] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Feliz Navidad.mp3.sync'.  One will be generated.
+[2017-12-19 08:38:09,142] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3 (205 sec)
+[2017-12-19 08:40:23,373] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Sandroll.mp3 (195 sec)
+[2017-12-19 08:43:31,825] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Star Wars Cantina.mp3 (167 sec)
+[2017-12-19 08:44:18,595] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanilla Ice - Ice Ice Baby.mp3 (241 sec)
+[2017-12-19 08:45:18,153] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Smashmouth - All-star.mp3 (202 sec)
+[2017-12-19 08:45:47,386] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Shrek Anthem.mp3 (118 sec)
+[2017-12-20 08:33:41,780] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Jingle Bells.mp3 (128 sec)
+[2017-12-20 08:33:41,785] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:33:41,786] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:33:41,786] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:33:41,786] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Jingle Bells.mp3.sync'.  One will be generated.
+[2017-12-20 08:35:50,440] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Jingle Bells.mp3.sync' [2765 rows]
+[2017-12-20 08:35:50,441] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Jingle Bells.mp3.cfg
+[2017-12-20 08:36:15,335] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Imagine Dragons - Believer.mp3 (202 sec)
+[2017-12-20 08:36:15,336] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:36:15,337] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:36:15,337] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:36:15,337] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Imagine Dragons - Believer.mp3.sync'.  One will be generated.
+[2017-12-20 08:39:38,739] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Imagine Dragons - Believer.mp3.sync' [4371 rows]
+[2017-12-20 08:39:38,740] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Imagine Dragons - Believer.mp3.cfg
+[2017-12-20 08:39:56,299] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Jackson Five - ABC.mp3 (185 sec)
+[2017-12-20 08:39:56,300] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:39:56,300] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:39:56,300] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:39:56,300] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Jackson Five - ABC.mp3.sync'.  One will be generated.
+[2017-12-20 08:41:28,883] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-20 08:41:28,884] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:41:28,884] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:41:28,884] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 08:41:28,885] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-20 08:42:53,265] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Carol Of The Bells.mp3 (179 sec)
+[2017-12-20 09:35:28,195] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Feliz Navidad.mp3 (189 sec)
+[2017-12-20 09:35:28,197] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 09:35:28,198] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 09:35:28,198] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 09:35:28,198] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Feliz Navidad.mp3.sync'.  One will be generated.
+[2017-12-20 09:38:38,623] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:697} - Cached sync data written to './home/pi/lightshowpi/music/.Feliz Navidad.mp3.sync' [4092 rows]
+[2017-12-20 09:38:38,623] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:698} - Cached config data written to './home/pi/lightshowpi/music/.Feliz Navidad.mp3.cfg
+[2017-12-20 13:18:24,434] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mariah Carey - All I Want For Christmas Is You.mp3 (235 sec)
+[2017-12-20 13:22:23,464] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/The Fresh Prince Of Belair.mp3 (177 sec)
+[2017-12-20 13:24:48,914] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Beastie Boys - Intergalactic.mp3 (229 sec)
+[2017-12-20 13:33:48,440] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/dragonforce-through-the-fire_and-flames.mp3 (444 sec)
+[2017-12-20 13:33:48,441] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:33:48,441] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:33:48,442] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:33:48,442] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.dragonforce-through-the-fire_and-flames.mp3.sync'.  One will be generated.
+[2017-12-20 13:34:46,652] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/John Cena.mp3 (13 sec)
+[2017-12-20 13:35:27,345] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Pokemon Theme.mp3 (201 sec)
+[2017-12-20 13:35:27,346] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:35:27,346] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:35:27,346] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:35:27,346] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Pokemon Theme.mp3.sync'.  One will be generated.
+[2017-12-20 13:36:57,036] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/fountains-of-wayne-stacy's-mom.mp3 (203 sec)
+[2017-12-20 13:36:57,037] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:36:57,037] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:36:57,037] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:36:57,038] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.fountains-of-wayne-stacy's-mom.mp3.sync'.  One will be generated.
+[2017-12-20 13:38:22,741] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Katy Perry - Roar.mp3 (269 sec)
+[2017-12-20 13:40:53,846] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rick Astley - Never Gonna Give You Up.mp3 (213 sec)
+[2017-12-20 13:44:29,634] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Drowning Pool - Bodies.mp3 (219 sec)
+[2017-12-20 13:44:29,634] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:44:29,635] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:44:29,635] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:44:29,635] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Drowning Pool - Bodies.mp3.sync'.  One will be generated.
+[2017-12-20 13:44:58,267] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Feliz Navidad.mp3 (189 sec)
+[2017-12-20 13:45:15,001] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Seinfeld Theme.mp3 (53 sec)
+[2017-12-20 13:46:00,886] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Sandroll.mp3 (195 sec)
+[2017-12-20 13:46:53,235] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Phineas and Ferb - Swinter.mp3 (77 sec)
+[2017-12-20 13:47:52,444] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-20 13:47:52,445] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:47:52,445] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:47:52,446] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 13:47:52,446] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-20 15:14:57,102] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Carol Of The Bells.mp3 (179 sec)
+[2017-12-20 15:15:24,636] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Journey Don't Stop Believin.mp3 (250 sec)
+[2017-12-20 15:15:24,637] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 15:15:24,637] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 15:15:24,637] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 15:15:24,638] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Journey Don't Stop Believin.mp3.sync'.  One will be generated.
+[2017-12-20 16:42:21,566] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Grandma Got Run Over.mp3 (207 sec)
+[2017-12-20 17:44:51,893] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3 (205 sec)
+[2017-12-20 17:45:16,827] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Trans-Siberian Orchestra - Christmas Eve Sarajevo.mp3 (205 sec)
+[2017-12-20 17:46:45,933] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/John Cena.mp3 (13 sec)
+[2017-12-20 17:47:30,722] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rick Astley - Never Gonna Give You Up.mp3 (213 sec)
+[2017-12-20 17:48:27,934] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - Don't Be A Jerk, It's Chrismas.mp3 (150 sec)
+[2017-12-20 17:48:55,949] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Psy - Gangam Style.mp3 (252 sec)
+[2017-12-20 17:48:55,950] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 17:48:55,950] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 17:48:55,950] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 17:48:55,951] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Psy - Gangam Style.mp3.sync'.  One will be generated.
+[2017-12-20 17:49:22,303] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mariah Carey - All I Want For Christmas Is You.mp3 (235 sec)
+[2017-12-20 17:51:30,242] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - The Campfire Song Song.mp3 (61 sec)
+[2017-12-20 18:06:32,698] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-20 18:06:32,699] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:06:32,699] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:06:32,699] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:06:32,699] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-20 18:30:51,697] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Space Jam Theme.mp3 (250 sec)
+[2017-12-20 18:34:23,792] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mom's Spaghetti.mp3 (277 sec)
+[2017-12-20 18:34:23,792] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:34:23,793] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:34:23,793] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:34:23,793] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Mom's Spaghetti.mp3.sync'.  One will be generated.
+[2017-12-20 18:39:06,039] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/The Fresh Prince Of Belair.mp3 (177 sec)
+[2017-12-20 18:42:10,384] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Vanilla Ice - Ice Ice Baby.mp3 (241 sec)
+[2017-12-20 18:43:17,264] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Darude Sandstorm.mp3 (244 sec)
+[2017-12-20 18:43:17,264] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:43:17,265] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:43:17,265] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:43:17,265] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Darude Sandstorm.mp3.sync'.  One will be generated.
+[2017-12-20 18:44:42,919] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/John Cena.mp3 (13 sec)
+[2017-12-20 18:45:23,846] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Space Jam Theme.mp3 (250 sec)
+[2017-12-20 18:46:49,257] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Bowling For Soup - 1985.mp3 (212 sec)
+[2017-12-20 18:46:49,257] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:46:49,258] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:46:49,258] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 18:46:49,258] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Bowling For Soup - 1985.mp3.sync'.  One will be generated.
+[2017-12-20 19:32:15,162] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-20 19:32:15,163] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:32:15,163] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:32:15,163] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:32:15,164] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-20 19:32:28,766] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - The Campfire Song Song.mp3 (61 sec)
+[2017-12-20 19:33:57,667] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Mom's Spaghetti.mp3 (277 sec)
+[2017-12-20 19:33:57,668] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:33:57,668] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:33:57,668] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:33:57,668] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Mom's Spaghetti.mp3.sync'.  One will be generated.
+[2017-12-20 19:34:31,778] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Nightcore - Every Time We Touch.mp3 (186 sec)
+[2017-12-20 19:34:31,780] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:34:31,780] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:34:31,781] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:34:31,781] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Nightcore - Every Time We Touch.mp3.sync'.  One will be generated.
+[2017-12-20 19:34:45,169] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-20 19:34:45,170] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:34:45,170] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:34:45,171] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:34:45,171] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-20 19:35:36,551] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Seinfeld Theme.mp3 (53 sec)
+[2017-12-20 19:36:05,416] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Star Wars Cantina.mp3 (167 sec)
+[2017-12-20 19:39:55,703] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Rebecca Black - Friday.mp3 (227 sec)
+[2017-12-20 19:40:14,517] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - The Campfire Song Song.mp3 (61 sec)
+[2017-12-20 19:41:14,671] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Darude Sandstorm.mp3 (244 sec)
+[2017-12-20 19:41:14,672] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:41:14,672] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:41:14,673] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 19:41:14,673] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Darude Sandstorm.mp3.sync'.  One will be generated.
+[2017-12-20 20:14:46,998] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Beastie Boys - Intergalactic.mp3 (229 sec)
+[2017-12-20 20:16:00,760] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Jackson Five - ABC.mp3 (185 sec)
+[2017-12-20 20:16:00,761] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:16:00,761] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:16:00,761] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:16:00,761] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Jackson Five - ABC.mp3.sync'.  One will be generated.
+[2017-12-20 20:16:18,775] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Jackson Five - ABC.mp3 (185 sec)
+[2017-12-20 20:16:18,776] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:16:18,777] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:16:18,777] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:16:18,778] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Jackson Five - ABC.mp3.sync'.  One will be generated.
+[2017-12-20 20:21:27,989] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-20 20:24:04,239] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Katy Perry - Roar.mp3 (269 sec)
+[2017-12-20 20:26:40,899] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Blue Swede Hooked On A Feeling.mp3 (167 sec)
+[2017-12-20 20:35:01,607] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Spongebob - Don't Be A Jerk, It's Christmas.mp3 (150 sec)
+[2017-12-20 20:35:01,612] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:35:01,613] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:35:01,613] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:35:01,613] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Spongebob - Don't Be A Jerk, It's Christmas.mp3.sync'.  One will be generated.
+[2017-12-20 20:35:53,196] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Psy - Gangam Style.mp3 (252 sec)
+[2017-12-20 20:35:53,197] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:35:53,197] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:35:53,198] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:35:53,198] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Psy - Gangam Style.mp3.sync'.  One will be generated.
+[2017-12-20 20:37:24,912] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Darude Sandstorm.mp3 (244 sec)
+[2017-12-20 20:37:24,912] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:37:24,913] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:37:24,913] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:37:24,913] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Darude Sandstorm.mp3.sync'.  One will be generated.
+[2017-12-20 20:41:31,266] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/dragonforce-through-the-fire_and-flames.mp3 (444 sec)
+[2017-12-20 20:41:31,267] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:41:31,267] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:41:31,268] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:41:31,268] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.dragonforce-through-the-fire_and-flames.mp3.sync'.  One will be generated.
+[2017-12-20 20:43:22,136] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Phineas and Ferb - Swinter.mp3 (77 sec)
+[2017-12-20 20:44:41,649] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Pirates of the Caribbean.mp3 (173 sec)
+[2017-12-20 20:44:41,650] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:44:41,651] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:44:41,652] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:44:41,652] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Pirates of the Caribbean.mp3.sync'.  One will be generated.
+[2017-12-20 20:45:47,398] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Smashmouth - All-star.mp3 (202 sec)
+[2017-12-20 20:47:00,117] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Wii Shop Channel Music.mp3 (559 sec)
+[2017-12-20 20:47:00,117] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:47:00,118] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:47:00,118] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:47:00,118] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Wii Shop Channel Music.mp3.sync'.  One will be generated.
+[2017-12-20 20:47:33,846] INFO {/home/pi/lightshowpi/py/synchronized_lights.py:627} - Playing: /home/pi/lightshowpi/music/Green Day - When I Come Around.mp3 (177 sec)
+[2017-12-20 20:47:33,847] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:47:33,847] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:47:33,847] WARNING {/home/pi/lightshowpi/py/fft.py:204} - No cached config data found
+[2017-12-20 20:47:33,848] WARNING {/home/pi/lightshowpi/py/synchronized_lights.py:672} - Cached sync data song_filename not found: '/home/pi/lightshowpi/music/.Green Day - When I Come Around.mp3.sync'.  One will be generated.
